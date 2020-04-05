@@ -17,7 +17,7 @@ const Home = () => {
   return (
     <div className="container">
       <Head>
-        <title>COVID 19 India Network</title>
+        <title>WAR ROOM</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
